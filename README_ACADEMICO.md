@@ -58,7 +58,6 @@ Arquivo `sql/create_views.sql` contém três views:
 - **Gráfico 2:** Leituras por hora (linha)  
 - **Gráfico 3:** Temperaturas máximas e mínimas por dia (linha dupla)  
 
-*(prints disponíveis em `/docs/screenshots/` e no PDF `docs/Relatorio_Projeto_IoT.pdf`)*
 
 ---
 
